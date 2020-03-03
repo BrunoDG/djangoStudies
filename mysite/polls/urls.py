@@ -1,5 +1,6 @@
 from django.urls import path
 from django.utils import timezone
+from django.views import generic
 
 from . import views
 
